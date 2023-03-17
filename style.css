@@ -1,0 +1,50 @@
+div {
+    margin: 10px 0;
+  }
+  
+  input[type="text"] {
+    padding: 5px;
+    margin-right: 5px;
+    font-size: 16px;
+  }
+  
+  button {
+    padding: 5px 10px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  button:hover {
+    background-color: #3e8e41;
+  }
+  
+  #search-results {
+    margin-top: 10px;
+  }
+  
+  #search-results div {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  #search-results div a {
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #333;
+  }
+  
+  #search-results div a:hover {
+    color: #000;
+  }
+  
+  #search-results div p {
+    margin: 5px 0;
+    font-size: 16px;
+    color: #777;
+  }
